@@ -1,16 +1,120 @@
-## Hi there 👋
+# 👩🏻‍💻 Gabrielly Ferrari
 
-<!--
-**gabyferrari/gabyferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora FullStack em formação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Gabrielly Ferrari Pereira, tenho 19 anos e sou de São Paulo. Atualmente, curso Bacharelado em Ciências da Computação na Anhembi Morumbi e sou apaixonada por tecnologia e aprendizado contínuo. Estou sempre explorando novas ferramentas, aprimorando habilidades e compartilhando conhecimento. Aqui no GitHub, você encontra meus projetos e minha evolução na programação, bora conferir! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:gabrielly.f.pereira@gmail.com">
+<p align="left">
+    <img 
+        alt="Email" 
+        title="gabrielly.f.pereira@gmail.com" 
+        height="25px"
+        src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail"
+     />
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p>
+  <img 
+      align="left" 
+      alt="Java"
+      title="Java" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="SQL" 
+      title="SQL"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="Spring" 
+      title="Spring"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+  />
+</p>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p> 
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=gabyferrari&show_icons=true&theme=dracula&locale=pt-br"
+ />
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyferrari&theme=dracula&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
+ />
+</p>
