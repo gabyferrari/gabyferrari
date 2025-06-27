@@ -9,103 +9,101 @@ Olá! Me chamo Gabrielly Ferrari Pereira, tenho 19 anos e sou de São Paulo. Atu
     <img 
         alt="Email" 
         title="gabrielly.f.pereira@gmail.com" 
-        height="25px"
+        height="24px"
         src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail"
      />
 </p>
-
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<p>
-  <img 
-      align="left" 
-      alt="Java"
-      title="Java" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
-  
-  <img 
-      align="left" 
-      alt="HTML"
-      title="HTML" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="CSS" 
-      title="CSS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="JavaScript" 
-      title="JavaScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="TypeScript"
-      title="TypeScript" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="React"
-      title="React" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="Git" 
-      title="Git"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  
-  <img 
-      align="left" 
-      alt="SQL" 
-      title="SQL"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-  />
-  
-  <img 
-      align="left" 
-      alt="Spring" 
-      title="Spring"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-  />
-</p>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### <u>📊 Estatísticas</u>
 
 <p> 
 <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=gabyferrari&show_icons=true&theme=dracula&locale=pt-br"
  />
@@ -113,7 +111,7 @@ Olá! Me chamo Gabrielly Ferrari Pereira, tenho 19 anos e sou de São Paulo. Atu
 <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyferrari&theme=dracula&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
  />
