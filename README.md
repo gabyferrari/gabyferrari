@@ -4,16 +4,17 @@
 
 Olá! Me chamo Gabrielly Ferrari Pereira, tenho 19 anos e sou de São Paulo. Atualmente, curso Bacharelado em Ciências da Computação na Anhembi Morumbi e sou apaixonada por tecnologia e aprendizado contínuo. Estou sempre explorando novas ferramentas, aprimorando habilidades e compartilhando conhecimento. Aqui no GitHub, você encontra meus projetos e minha evolução na programação, bora conferir! 
 
-<a href="mailto:gabrielly.f.pereira@gmail.com">
+
 <p align="left">
+<a href="mailto:gabrielly.f.pereira@gmail.com">
     <img 
         alt="Email" 
         title="gabrielly.f.pereira@gmail.com" 
-        height="24px"
+        height="22px"
         src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail"
      />
 </p>
-    
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
