@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack em formação`**
 
-Olá! Me chamo Gabrielly Ferrari Pereira, tenho 19 anos e sou de São Paulo. Atualmente, curso Bacharelado em Ciências da Computação na Anhembi Morumbi e sou apaixonada por tecnologia e aprendizado contínuo. Estou sempre explorando novas ferramentas, aprimorando habilidades e compartilhando conhecimento. Aqui no GitHub, você encontra meus projetos e minha evolução na programação, bora conferir! 
+Olá! Me chamo Gabrielly Ferrari Pereira, tenho 20 anos e sou de São Paulo. Atualmente, curso Bacharelado em Ciências da Computação na Anhembi Morumbi e sou apaixonada por tecnologia e aprendizado contínuo. Estou sempre explorando novas ferramentas, aprimorando habilidades e compartilhando conhecimento. Aqui no GitHub, você encontra meus projetos e minha evolução na programação, bora conferir! 
 
 
 <p align="left">
