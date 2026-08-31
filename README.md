@@ -97,23 +97,3 @@ Olá! Me chamo Gabrielly Ferrari Pereira, tenho 20 anos e sou de São Paulo. Atu
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p> 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="166"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gabyferrari&show_icons=true&theme=dracula&locale=pt-br"
- />
-
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="180"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyferrari&theme=dracula&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
- />
-</p>
